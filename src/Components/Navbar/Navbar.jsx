@@ -71,8 +71,8 @@ export const Navbar = () => {
           </li>
           <li className='nav__list-item'>
             <a
-              href='https://docs.google.com/presentation/d/1nu2bLa0guBJeTHkPL_XfZ8sxzm_5ZDDO/edit?usp=sharing&ouid=105964190937107021913&rtpof=true&sd=true'
-              onClick={toggleNavList}
+              href="#"
+              onClick={() =>alert("This feature is updated soon")}
               className='link link--nav'
               target='_blank'
               rel='noreferrer'

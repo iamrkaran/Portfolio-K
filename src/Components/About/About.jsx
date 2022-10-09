@@ -68,9 +68,9 @@ export const About = () => {
         <button
           className='btnResume'
           onClick={() => {
-            window.open(
-              "https://docs.google.com/presentation/d/1nu2bLa0guBJeTHkPL_XfZ8sxzm_5ZDDO/edit?usp=sharing&ouid=105964190937107021913&rtpof=true&sd=true"
-            );
+            // window.open(
+             alert("This feature is updated soon")
+            // );
           }}
         >
           Resume
